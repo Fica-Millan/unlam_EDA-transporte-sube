@@ -34,7 +34,7 @@ Se aplicaron técnicas de **limpieza de datos**, **enriquecimiento mediante APIs
 │   ├── eda_2024_*.png
 │   ├── eda_2025_*.png
 │   └── comparativa_*.png
-└── README.md
+├── README.md
 ├── api_tipo_dias2024.py
 ├── api_tipo_dias2025.py
 ├── comparativa_2025vs2024.py
@@ -44,7 +44,7 @@ Se aplicaron técnicas de **limpieza de datos**, **enriquecimiento mediante APIs
 ├── eda_sube2025.py
 ├── scraping_feriados2024.py
 ├── scraping_feriados2025.py
-├── scraping_consulta_robots.py
+└── scraping_consulta_robots.py
 
 ```
 
