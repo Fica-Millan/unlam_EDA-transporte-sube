@@ -130,4 +130,9 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4
 - Fica Millán, Yesica  
 - Petraroia, Franco  
 - Miranda Charca, Florencia  
-- De Los Ríos, Raúl  
+- De Los Ríos, Raúl
+
+Con la guía del profesor Marcelo Caiafa.
+
+📌 Notas
+Este repositorio tiene fines académicos y demostrativos. Los datos utilizados provienen de fuentes oficiales y se usaron exclusivamente con fines educativos.
