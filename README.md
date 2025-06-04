@@ -27,24 +27,25 @@ Se aplicaron técnicas de **limpieza de datos**, **enriquecimiento mediante APIs
 
 ```bash
 .
-├── api_tipo_dias2024.py
-├── api_tipo_dias2025.py
-├── scraping_consulta_robots.py
-├── scraping_feriados2024.py
-├── scraping_feriados2025.py
-├── eda_sube2024.py
-├── eda_sube2025.py
-├── comparativa_2025vs2024.py
-├── df-sube-2024.csv
-├── df-sube-2025.csv
+├── docs/
+│   ├── informe_final.pdf
+│   └── presentacion.pdf
 ├── graficos/
 │   ├── eda_2024_*.png
 │   ├── eda_2025_*.png
 │   └── comparativa_*.png
-├── docs/
-│   ├── informe_final.pdf
-│   └── presentacion.pdf
 └── README.md
+├── api_tipo_dias2024.py
+├── api_tipo_dias2025.py
+├── comparativa_2025vs2024.py
+├── df-sube-2024.csv
+├── df-sube-2025.csv
+├── eda_sube2024.py
+├── eda_sube2025.py
+├── scraping_feriados2024.py
+├── scraping_feriados2025.py
+├── scraping_consulta_robots.py
+
 ```
 
 ## 📜 Detalle de los scripts

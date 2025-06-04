@@ -19,6 +19,7 @@ Thumbs.db
 # Resultados intermedios y datasets generados
 df-sube-2024*.csv
 df-sube-2025*.csv
+dat_sube2024_eda.csv
 
 # Archivos de configuración personales
 .vscode/
