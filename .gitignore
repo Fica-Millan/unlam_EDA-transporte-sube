@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+.env/
+.envrc
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Resultados intermedios y datasets generados
+df-sube-2024*.csv
+df-sube-2025*.csv
+
+# Archivos de configuración personales
+.vscode/
+*.code-workspace
+desktop.ini 
